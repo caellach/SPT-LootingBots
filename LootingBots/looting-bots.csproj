@@ -61,6 +61,9 @@
     <Reference Include="BepInEx">
       <HintPath>..\..\..\3.7.1\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Runtime">
+      <HintPath>..\..\..\3.7.1\EscapeFromTarkov_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Comfort">
       <HintPath>..\..\..\3.7.1\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
     </Reference>
